@@ -78,7 +78,7 @@
 		"eslint-config-prettier": "^8.10.0",
 		"eslint-plugin-prettier": "^4.2.1",
 		"prettier": "^2.7.1",
-		"rimraf": "^3.0.2",
+		"rimraf": "^5.0.10",
 		"typescript": "4.9.5"
 	},
 	"optionalDependencies": {
